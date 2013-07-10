@@ -1,5 +1,9 @@
 *.py[cod]
 
+# Custom ignores
+old_files/no_sync/
+
+
 # C extensions
 *.so
 

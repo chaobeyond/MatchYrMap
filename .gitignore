@@ -2,7 +2,7 @@
 
 # Custom ignores
 old_files/no_sync/
-
+no_sync*
 
 # C extensions
 *.so
